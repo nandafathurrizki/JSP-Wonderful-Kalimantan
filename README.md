@@ -20,7 +20,7 @@ Teman-Teman Bisa Mengerjakan Tugas Dengan Cara
 
 1. Klik Tab menu Issues.
 2. Pilih Issues Yang Diberikan Kepada Teman-Teman.
-3. Submit File Yang Sudah Teman-Teman Kerjakan Sesuai Issues.
+3. Pastekan Yang Sudah Teman-Teman Kerjakan Sesuai Issues.
 4. Kemudian Klik Tombol Comment.
 
 **DONE.**
