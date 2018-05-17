@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Wonderful Kalimantan Pages
 
-You can use the [editor on GitHub](https://github.com/nandafathurrizki/Website-Wisata-Kalimantan-With-JSP/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Disini kita akan sama-sama membuat projek tentang wisata kalimantan menggunakan JSP ( Java Servlet Pages), Diharapkan kepada teman-teman kerja sama dan saling memahami.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mohon Kerja samanya.
+Terimakasih.
 
 ### Markdown
 
